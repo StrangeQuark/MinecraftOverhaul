@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "qo:items/diamond_tipped_obsidian_pickaxe"
+  }
+}
